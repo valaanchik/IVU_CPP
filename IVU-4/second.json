@@ -1,0 +1,112 @@
+[
+    {
+        "name": "_settings",
+        "par_1": "8",
+        "par_2": "256"
+    },
+    {
+        "name": "_sara",
+        "par_1": "256",
+        "par_2": "256"
+    },
+    {
+        "name": "_supplier",
+        "par_1": "24",
+        "par_2": "256"
+    },
+    {
+        "name": "_sara",
+        "par_1": "8",
+        "par_2": "256"
+    },
+    {
+        "name": "_snowboard",
+        "par_1": "16",
+        "par_2": "256"
+    },
+    {
+        "name": "_supplier",
+        "par_1": "8",
+        "par_2": "256"
+    },
+    {
+        "name": "_settings",
+        "par_1": "256",
+        "par_2": "256"
+    },
+    {
+        "name": "_sara",
+        "par_1": "140",
+        "par_2": "256"
+    },
+    {
+        "name": "_sleeve",
+        "par_1": "200",
+        "par_2": "256"
+    },
+    {
+        "name": "_sleeve",
+        "par_1": "42",
+        "par_2": "256"
+    },
+    {
+        "name": "_sent",
+        "par_1": "28",
+        "par_2": "256"
+    },
+    {
+        "name": "_surplus",
+        "par_1": "12",
+        "par_2": "256"
+    },
+    {
+        "name": "_sarah",
+        "par_1": "224",
+        "par_2": "256"
+    },
+    {
+        "name": "_scotland",
+        "par_1": "36",
+        "par_2": "256"
+    },
+    {
+        "name": "_september",
+        "par_1": "12",
+        "par_2": "256"
+    },
+    {
+        "name": "_settings",
+        "par_1": "140",
+        "par_2": "256"
+    },
+    {
+        "name": "_sara",
+        "par_1": "320",
+        "par_2": "256"
+    },
+    {
+        "name": "_sarah",
+        "par_1": "350",
+        "par_2": "256"
+    },
+    {
+        "name": "_structural",
+        "par_1": "64",
+        "par_2": "256"
+    },
+    {
+        "name": "_september",
+        "par_1": "28",
+        "par_2": "256"
+    },
+    {
+        "name": "_shades",
+        "par_1": "336",
+        "par_2": "256"
+    },
+    {
+        "name": "_snowboard",
+        "par_1": "896",
+        "par_2": "256"
+    }
+]
